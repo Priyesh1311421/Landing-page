@@ -1,0 +1,14 @@
+/* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+.no-scrollbar::-webkit-scrollbar {
+display: none;
+}
+
+
+.no-scrollbar {
+scrollbar-width: none; 
+}
+
+.no-scrollbar {
+-ms-overflow-style: none; 
+}
+  
