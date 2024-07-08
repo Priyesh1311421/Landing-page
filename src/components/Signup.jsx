@@ -30,7 +30,7 @@ function SignUpButton() {
                 </button>
                 <div>
                     <MyForm/>
-                    <MyForm/>
+                    
                 </div>
                 
               </div>
